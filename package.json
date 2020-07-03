@@ -1,0 +1,19 @@
+{
+  "name": "fetsh-data-sql",
+  "version": "1.0.0",
+  "description": "fetsh data from API and save it to SQL",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mostaffa/Fetsh-Data-SQL.git"
+  },
+  "author": "Mostafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mostaffa/Fetsh-Data-SQL/issues"
+  },
+  "homepage": "https://github.com/mostaffa/Fetsh-Data-SQL#readme"
+}
