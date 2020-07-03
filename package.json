@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mostaffa/Fetsh-Data-SQL/issues"
   },
-  "homepage": "https://github.com/mostaffa/Fetsh-Data-SQL#readme"
+  "homepage": "https://github.com/mostaffa/Fetsh-Data-SQL#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
 }
